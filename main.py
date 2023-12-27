@@ -1,4 +1,3 @@
-
 <?php
 $token = "663051 2546:AAEWZbggW8SmPAtWRFrg6h58az4a8fVkol4";
 define('API_KEY',$token);
